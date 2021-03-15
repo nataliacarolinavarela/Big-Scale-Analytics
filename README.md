@@ -58,20 +58,20 @@ To create the model: we will browse through every sentence and extract the diffe
 
 
 
-Sources: 
+#### Sources: 
 
-[1] 60+ French Cognates You Can Count On (Plus Fake Ones You Can’t)
+- [1] 60+ French Cognates You Can Count On (Plus Fake Ones You Can’t)
  https://www.fluentu.com/blog/french/french-cognates/ 
-[2] Cognate Identification using Machine Translation https://www.aclweb.org/anthology/U15-1018.pdf 
-[3] https://www.fluentu.com/blog/french/french-prefixes/  
-[4] https://www.fluentu.com/blog/french/french-suffixes/  
-[5] https://en.wikipedia.org/wiki/ 
-[6]List_of_English_words_of_French_origin#:~:text=According%20to%20different%20sources%2C%2045,words%20have%20a%20French%20origin.&text=Although%20French%20is%20derived%20mainly,languages%20(especially%20Old%20Frankish).   
-[7] https://pypi.org/project/textstat/ 
-[8] https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests  
-[9] http://thormay.net/lxesl/tech4.html 
-[10] https://www.inesc-id.pt/publications/11043/pdf  
-[11] https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk 
+- [2] Cognate Identification using Machine Translation https://www.aclweb.org/anthology/U15-1018.pdf 
+- [3] https://www.fluentu.com/blog/french/french-prefixes/  
+- [4] https://www.fluentu.com/blog/french/french-suffixes/  
+- [5] https://en.wikipedia.org/wiki/
+- [6]List_of_English_words_of_French_origin#:~:text=According%20to%20different%20sources%2C%2045,words%20have%20a%20French%20origin.&text=Although%20French%20is%20derived%20mainly,languages%20(especially%20Old%20Frankish).   
+- [7] https://pypi.org/project/textstat/ 
+- [8] https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests  
+- [9] http://thormay.net/lxesl/tech4.html 
+- [10] https://www.inesc-id.pt/publications/11043/pdf  
+- [11] https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk 
 
 
 ## 4. How many annotated sentence you contributed:  
@@ -86,14 +86,14 @@ Dataset:
 - C1
 - C2
 
-## Total sentences: 1178
+Total sentences: 1178
 
 Links to the different websites where we extracted our sentences to fill our database. 
-[1] https://lire-et-ecrire.be/?lang=fr 
-[2] https://www.lepointdufle.net 
-[3] https://lepetitscribe.com/category/niveaux/a1/ 
-[4] https://www.delfdalf.ch/niveaux/exemples-dexamens
-[5]https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit#gid=1508059658 
+- [1] https://lire-et-ecrire.be/?lang=fr 
+- [2] https://www.lepointdufle.net 
+- [3] https://lepetitscribe.com/category/niveaux/a1/ 
+- [4] https://www.delfdalf.ch/niveaux/exemples-dexamens
+- [5]https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit#gid=1508059658 
 
 
 # Milestone 2:
