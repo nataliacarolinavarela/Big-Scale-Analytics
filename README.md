@@ -10,6 +10,11 @@ inappropriate to present a text at B2 level, as she won’t be able to understan
 should have many known words and may have a few words that are unknown so that the person
 can improve.
 
+# Github Repository
+
+- Data: The data collected for the sentences 
+- Documents: The different research papers 
+
 # Milestone 1: (15/03): 
 
 ## 1. Which paper did you read on the topic ? 
@@ -40,7 +45,7 @@ We have found a Python library [7] that returns the Flesch-Kincaid Grade of a gi
 
 This would be interesting to find the level attributed to the different sentences in order to classify them correctly based on their difficulty. 
 
-#### 2.2.2: Difficulty of text: 
+#### 2.2.2: Difficulty of text: 
 More in this field, we have found that the  “the number of syllables and the lengths of sentences increase the difficulty to understanding a text (new learners)” [9]. 
 In this study they use “ features extracted by the system consists in: (i) part-of-speech (POS) tags, chunks, words and sentences features; (ii) verb features and different metrics involving averages and frequencies; (iii) several metrics involving syllables” [10] to find the difficulty of a text given. They concluded interesting elements, such as that: 
 The length of a text is related with its readability, i.e. typically, longer texts, specially with long sentences, have much more detail or content, which can make them more difficult to understand
