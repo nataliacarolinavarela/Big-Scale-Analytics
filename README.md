@@ -1,6 +1,6 @@
 # Big-Scale-Analytics: Team Samsung
 
-Project Description: 
+# Project Description: 
 
 You have decided to build a
 model for English speakers that predicts the difficulty of a French written text. This can be then
@@ -10,10 +10,7 @@ inappropriate to present a text at B2 level, as she won’t be able to understan
 should have many known words and may have a few words that are unknown so that the person
 can improve.
 
-Github Page: https://github.com/alexerne-git/Big-Scale-Analytics 
-
-
-Milestone 1: (15/03): 
+# Milestone 1: (15/03): 
 
 1. Which paper did you read on the topic ? 
 
@@ -83,6 +80,15 @@ Sources:
 
 We have collected sentences from different sources, most of our sentences were collected from “la fondation Esprit Francophonie” [4] where we fetched sentences from exams of “comprehension écrite” according to the different levels (A1…C2). We then copied them in an algorithm that we built in PyCharm that enabled us to clean the sentences and import them one by one in the Google Sheet [5]. Then we annotated the 1178 sentences with their level difficulty by hand. We created a Jupiter Notebook in order to see the distribution of the levels in our dataset. The Jupiter Notebook is available on our Github Page. 
 
+Dataset:
+- A1
+- A2
+- B1
+- B2
+- C1
+- C2
+
+Total sentences: 1178
 
 Links to the different websites where we extracted our sentences to fill our database. 
 [1] https://lire-et-ecrire.be/?lang=fr 
@@ -90,3 +96,14 @@ Links to the different websites where we extracted our sentences to fill our dat
 [3] https://lepetitscribe.com/category/niveaux/a1/ 
 [4] https://www.delfdalf.ch/niveaux/exemples-dexamens
 [5]https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit#gid=1508059658 
+
+
+# Milestone 2:
+
+# Milestone 3: 
+
+# Participants: 
+- Alexis Erne
+- Maxime Raisin
+- Natalia Varela
+ 
