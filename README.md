@@ -78,7 +78,7 @@ Sources:
 - [11] https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk 
 
 
-## 4. How many annotated sentence you contributed:  
+## 4. How many annotated sentence you contributed:  
 
 We have collected sentences from different sources, most of our sentences were collected from “la fondation Esprit Francophonie” [4] where we fetched sentences from exams of “comprehension écrite” according to the different levels (A1…C2). We then copied them in an algorithm that we built in PyCharm that enabled us to clean the sentences and import them one by one in the Google Sheet [5]. Then we annotated the 1178 sentences with their level difficulty by hand. We created a Jupiter Notebook in order to see the distribution of the levels in our dataset. The Jupiter Notebook is available on our Github Page. 
 
