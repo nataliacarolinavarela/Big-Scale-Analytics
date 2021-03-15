@@ -13,7 +13,6 @@ can improve.
 # Github Repository
 
 - Data: The data collected for the sentences 
-- Documents: The different research papers 
 
 # Milestone 1: (15/03): 
 
