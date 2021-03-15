@@ -58,7 +58,7 @@ To create the model: we will browse through every sentence and extract the diffe
 
 
 
-#### Sources: 
+Sources: 
 
 - [1] 60+ French Cognates You Can Count On (Plus Fake Ones You Can’t)
  https://www.fluentu.com/blog/french/french-cognates/ 
