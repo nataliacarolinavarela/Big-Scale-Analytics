@@ -104,6 +104,10 @@ Links to the different websites where we extracted our sentences to fill our dat
 
 # Milestone 2: (16/04)
 
+## Deliverable: 
+A callable API point which, given a text in French, will return its difficulty
+
+
 # Milestone 3: 
 
 # Participants: 
