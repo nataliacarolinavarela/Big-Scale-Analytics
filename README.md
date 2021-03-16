@@ -10,9 +10,6 @@ inappropriate to present a text at B2 level, as she won’t be able to understan
 should have many known words and may have a few words that are unknown so that the person
 can improve.
 
-# Github Repository Description
-
-
 # Milestone 1: (15/03): 
 
 ## 1. Which paper did you read on the topic ? 
