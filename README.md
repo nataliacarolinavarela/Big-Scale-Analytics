@@ -102,7 +102,7 @@ Links to the different websites where we extracted our sentences to fill our dat
 - [5]https://docs.google.com/spreadsheets/d/1oQGKQZLj6JRbgY-ZQLfClUsq-AHA8LIegtSZvxw6s6A/edit#gid=1508059658 
 
 
-# Milestone 2:
+# Milestone 2: (16/04)
 
 # Milestone 3: 
 
